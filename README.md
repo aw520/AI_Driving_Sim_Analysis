@@ -13,7 +13,7 @@ This project processes video files by:
 
 ## 📦 Requirements
 
-Ensure you have **Python 3.x, FFmpeg** installed.
+Ensure **Python 3.x, FFmpeg** installed.
 
 ### **Install Dependencies**
 Run the following command to install required libraries:
